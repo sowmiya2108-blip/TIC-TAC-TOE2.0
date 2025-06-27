@@ -45,15 +45,7 @@ Prunes subtrees using alpha-beta bounds to optimize performance.
 
 ⚙️ Installation
 Ensure Python 3 is installed:
-
-
 python --version
-Clone or download the code:
-
-git clone https://github.com/yourusername/tic-tac-toe-ai.git
-cd tic-tac-toe-ai
-Run the game:
-python tic_tac_toe_ai.py
 🕹 Usage
 On running, the program displays the game board.
 
@@ -72,3 +64,5 @@ Technical Interviews: Good example of practical application of Minimax algorithm
 
 Learning Tool: Helps beginners understand algorithmic problem-solving and turn-based logic.
 
+CONTACT:
+MAILID: sowmiyakanthasamy21@gmail.com
